@@ -1,0 +1,6 @@
+name: bedrock_launcher_lint_rules
+description: Layer import boundary rules for bedrockLauncher.
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.2
